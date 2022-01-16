@@ -4,6 +4,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
 </p>
+![chris0825's github stats](https://github-readme-stats.vercel.app/api?username=chris0825&show_icons=true)
+[![chris0825's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chris0825&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/chris0825)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chris0825)](https://solved.ac/chris0825)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=chris0825)
+
 <!--
 **chris0825/chris0825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,9 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![chris0825's github stats](https://github-readme-stats.vercel.app/api?username=chris0825&show_icons=true)
-[![chris0825's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chris0825&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/chris0825)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chris0825)](https://solved.ac/chris0825)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=chris0825)
