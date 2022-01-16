@@ -6,12 +6,12 @@
 </p>
 <br/><br/><br/>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chris0825)](https://solved.ac/chris0825)
+
 ![chris0825's github stats](https://github-readme-stats.vercel.app/api?username=chris0825&show_icons=true)
 
 [![chris0825's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chris0825&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/chris0825)
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chris0825)](https://solved.ac/chris0825)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=chris0825)
 
