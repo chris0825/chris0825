@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+</p>
 <!--
 **chris0825/chris0825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
